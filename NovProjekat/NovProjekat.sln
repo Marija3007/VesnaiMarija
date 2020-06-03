@@ -7,7 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovProjekat", "NovProjekat\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MojaKlasa", "MojaKlasa\MojaKlasa.csproj", "{3BF54941-EDB4-416F-AEFF-CE584FDCD102}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klass3", "Klass3\Klass3.csproj", "{986E0B37-EA7B-47C6-AD67-373FA965D143}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrugiClassLibrary", "DrugiClassLibrary\DrugiClassLibrary.csproj", "{148100BE-4CDC-4BE0-83C2-624DDE98E457}"
+>>>>>>> 3c66fc8b2740cd8630cb3bbf5d9f99b3368d3b0e
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +27,17 @@ Global
 		{3BF54941-EDB4-416F-AEFF-CE584FDCD102}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF54941-EDB4-416F-AEFF-CE584FDCD102}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF54941-EDB4-416F-AEFF-CE584FDCD102}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{986E0B37-EA7B-47C6-AD67-373FA965D143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{986E0B37-EA7B-47C6-AD67-373FA965D143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{986E0B37-EA7B-47C6-AD67-373FA965D143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{986E0B37-EA7B-47C6-AD67-373FA965D143}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{148100BE-4CDC-4BE0-83C2-624DDE98E457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148100BE-4CDC-4BE0-83C2-624DDE98E457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148100BE-4CDC-4BE0-83C2-624DDE98E457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148100BE-4CDC-4BE0-83C2-624DDE98E457}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 3c66fc8b2740cd8630cb3bbf5d9f99b3368d3b0e
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
